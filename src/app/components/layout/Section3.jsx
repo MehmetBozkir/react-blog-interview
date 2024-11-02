@@ -51,7 +51,7 @@ const Section3 = () => {
           <div className="bg-sky-700 w-[36px] h-[36px] md:w-[60px] md:h-[60px] rounded-[50px] absolute top-[60px] md:top-[114px] -translate-y-1/2 right-0 translate-x-1/2 opacity-75"></div>
         </div>
         <div className="bg-fuchsia-700 w-[45px] h-[45px] md:w-[74px] md:h-[74px] rounded-[30px] absolute -bottom-5 right-[56px] md:-bottom-11 md:right-16 opacity-75"></div>
-        <div className="bg-pink-700 w-[135px] h-[135px] md:w-[218px] md:h-[218px] rounded-[50px] absolute -bottom-[60px] -right-[55px] md:-bottom-[110px] md:-right-[118px] opacity-75"></div>
+        <div className="bg-pink-700 w-[135px] h-[135px] md:w-[218px] md:h-[218px] rounded-[50px] absolute -bottom-[60px] -right-[25px] md:-bottom-[110px] md:-right-[118px] opacity-75"></div>
       </div>
       <div className="bg-green-700 w-[50px] h-[50px] md:w-[85px] md:h-[85px] rounded-[50px] absolute bottom-[-19px] left-[43px] md:bottom-[-37px] md:left-[70px] z-30 opacity-75"></div>
       <div className="w-36 h-36 rounded-full bg-black/10 absolute left-1/2 top-[calc(50%+20px)] -translate-x-1/2 -translate-y-1/2 flex items-center justify-center">

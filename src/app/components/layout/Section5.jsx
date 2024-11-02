@@ -26,10 +26,10 @@ const Section5 = () => {
       <div className="max-w-screen-xl mx-auto inner-container py-20">
         <div className="space-y-8 lg:space-y-20">
           <div className="space-y-8 text-center md:text-start">
-            <h2 className="text-3xl md:text-5xl font-extrabold">
+            <h2 className="text-3xl md:text-5xl font-extrabold text-black">
               Grow Your Collection
             </h2>
-            <p className="text-sm md:text-lg font-normal leading-[140%] max-md:px-3">
+            <p className="text-sm md:text-lg font-normal leading-[140%] max-md:px-3 text-black">
               Enim neque massa porta adipiscing elit. Sem libero id faucibus
               nibh amet dictum pellentesque sed. Eu non turpis risus odio
               sapien, fames sit rhoncus. Nec magna sed interdum sit purus

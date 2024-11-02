@@ -5,15 +5,7 @@
 :root {
   --background-start: #fefbec;
   --background-end: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-start: #0a0a0a;
-    --background-end: #1a1a1a;
-    --foreground: #ededed;
-  }
+  --foreground: #ffffff;
 }
 
 body {
