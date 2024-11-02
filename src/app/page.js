@@ -1,9 +1,11 @@
+import Navbar from "./components/layout/Navbar";
+
 function page() {
   return (
     <div>
-<p>Clean Page</p>
+      <Navbar />
     </div>
-  )
+  );
 }
 
-export default page
+export default page;
